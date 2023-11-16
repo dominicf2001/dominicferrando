@@ -1,0 +1,3 @@
+[submodule "lekh"]
+	path = lekh
+	url = https://github.com/ba11b0y/lekh.git
